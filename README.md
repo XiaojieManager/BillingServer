@@ -1,1 +1,1 @@
-https://www.baidu.com,ahsdua
+https://www.baidu.com
