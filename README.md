@@ -1,2 +1,2 @@
 # BillingServer
-https://baidu.com
+https://baidu.com,g
